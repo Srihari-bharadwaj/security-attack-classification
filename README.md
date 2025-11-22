@@ -29,8 +29,8 @@ A machine learning project to classify different types of security attacks (intr
 
 ---
 
-## License
+##  License
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
